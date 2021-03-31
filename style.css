@@ -1,0 +1,17 @@
+body {
+    background: lightblue;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    color: darkblue;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
